@@ -1,0 +1,82 @@
+¿Cuál es el nombre del mejor monitor que han tenido?;Alejandro;Gustavo;Salomon;Pedro;3
+¿En qué año terminó la Segunda Guerra Mundial?;1943;1945;1950;1939;2
+¿Cuándo es el cumpleaños del monitor?;25 de junio;7 de mayo;4 de agosto;3 de diciembre;1
+¿Cuál es el río más largo del mundo?;Nilo;Amazonas;Misisipi;Yangtsé;2
+¿Qué planeta es conocido como el Planeta Rojo?;Júpiter;Marte;Venus;Saturno;2
+¿Cuántas materias ha perdido/retirado el monitor?;1;2;3;0;4
+¿Cuál es el "motor" de la célula?;Núcleo;Ribosoma;Mitocondria;Membrana celular;3
+¿En qué continente se encuentra el desierto del Sahara?;Asia;África;Australia;América del Sur;2
+¿Quién es el autor de "Cien años de soledad"?;Mario Vargas Llosa;Julio Cortázar;Gabriel García Márquez;Isabel Allende;3
+¿Cuántas cuerdas tiene un violín estándar?;4;5;6;8;1
+¿En qué país comenzó el Renacimiento?;Francia;España;Alemania;Italia;4
+¿Si el monitor fuera una distribución de Linux, cual le gustaria ser?;Fedora;Ubuntu;Arch;Mint;1
+¿Cuál es el océano más grande del mundo?;Atlántico;Índico;Ártico;Pacífico;4
+¿A parte de la Colombiana, que otra nacionalidad tiene el monitor?;Española;Peruana;Irlandesa;Venezolana;1
+¿Cuál es el peso aproximado de una imagen alpine Linux en Docker?;1Mb;5Mb;4Mb;12Mb;2
+¿Quién descubrió la penicilina?;Marie Curie;Alexander Fleming;Louis Pasteur;Isaac Newton;2
+Complete la frase: Camaron que se duerme...;Pierde ADSW;No da papaya;Engorda;Se lo lleva la corriente;4
+¿Cuál es la montaña más alta del mundo?;K2;Makalu;Monte Everest;Kangchenjunga;3
+¿Quién escribió "Romeo y Julieta"?;Charles Dickens;Jane Austen;William Shakespeare;León Tolstói;3
+¿Cuál es el símbolo químico de la plata?;Ag;Si;Pl;Pv;1
+¿De que color eran las mangas del chaleco amarillo de simón bolívar?;Amarillas;Verdes;No tenían color;Rojas;3
+¿Qué artista es famoso por cortar su propia oreja?;Claude Monet;Salvador Dalí;Vincent van Gogh;Pablo Picasso;3
+¿Cuál es la capital de Japón?;Kioto;Osaka;Tokio;Hiroshima;3
+¿Cuántos planetas hay en nuestro Sistema Solar?;7;8;9;10;2
+¿Qué Transmilenio usa el monitor para ir de su casa a la universidad?;H15;H20;J74;H17;1
+¿Quién fue el primer presidente de los Estados Unidos?;Thomas Jefferson;Abraham Lincoln;George Washington;John Adams;3
+¿Cuál es el hueso más largo del cuerpo humano?;Tibia;Peroné;Húmero;Fémur;4
+¿Qué compañía fundó Bill Gates?;Apple;Microsoft;Amazon;Google;2
+¿En qué país se inventó el papel?;Grecia;Egipto;China;Roma;3
+¿El monitor de que color tenia el hoodie?;Blanco;Negro;Rojo;Amarillo;4
+¿Quién escribió "1984"?;George Orwell;Aldous Huxley;Ray Bradbury;J.R.R. Tolkien;1
+¿Cuál es el animal terrestre más rápido?;León;Tigre;Guepardo;Caballo;3
+¿Cuál es el metal más ligero?;Aluminio;Litio;Titanio;Magnesio;2
+¿Qué pintor es conocido por "El Grito"?;Edvard Munch;Gustav Klimt;Egon Schiele;Wassily Kandinsky;1
+¿Cuál fue la canción que mas escucho el monitor el año pasado según Spotify Wrapped?;Turista;Sanka;Baile Inolvidable;La fuga;3
+¿Qué instrumento mide la intensidad de los terremotos?;Termómetro;Barómetro;Anemómetro;Sismógrafo;4
+¿Quién es el autor de "La Odisea"?;Sócrates;Platón;Homero;Aristóteles;3
+¿Cuál es la velocidad de la luz (aprox.)?;300,000 km/s;150,000 km/s;1,000,000 km/s;30,000 km/s;1
+¿Cuál es el árbol favorito del monitor?;Segment Tree;AVL tree;Red-Black Tree;Arbol Binario Indexado;1
+¿Qué significa "ADN"?;Ácido desoxirribonucleico;Ácido dinitroribonucleico;Adenina dinitrato;Ácido ribonucleico;1
+¿En qué año cayó el Muro de Berlín?;1985;1989;1991;1993;2
+¿Cuál es el idioma más hablado en el mundo (por hablantes nativos)?;Inglés;Hindi;Español;Chino Mandarín;4
+¿Cuál es el único mamífero que puede volar?;Ardilla voladora;Murciélago;Colugo;Petauro del azúcar;2
+¿Quién fue la primera mujer en ganar un Premio Nobel?;Marie Curie;Irène Joliot-Curie;Bertha von Suttner;Selma Lagerlöf;1
+¿Cuál es el desierto (no polar) más grande del mundo?;Gobi;Kalahari;Sáhara;Atacama;3
+¿En qué país se encuentra la Torre de Pisa?;Francia;España;Grecia;Italia;4
+¿Cuál fue la nota final del monitor en la asignatura Constitución y Derecho Civil?;4;4.5;4.7;3.5;4
+¿Qué civilización construyó las pirámides de Giza?;Romanos;Griegos;Mayas;Egipcios;4
+¿En qué deporte destacó Michael Jordan?;Fútbol;Béisbol;Baloncesto;Fútbol Americano;3
+¿Cuál es el nombre del martillo de Thor?;Gungnir;Stormbreaker;Mjolnir;Excalibur;3
+¿Cuáles de estos platos NO ha cocinado el monitor?;Ramen;Sushi;Ravioli;Sancocho Trifásico;4
+¿En qué ciudad se encuentra el Coliseo Romano?;Florencia;Venecia;Roma;Milán;3
+¿Cuál es el elemento químico más abundante en el universo?;Oxígeno;Carbono;Helio;Hidrógeno;4
+¿Qué gas usan las plantas para la fotosíntesis?;Oxígeno;Nitrógeno;Dióxido de Carbono;Hidrógeno;3
+¿Cuál es el país con más habitantes del mundo?;India;Estados Unidos;China;Indonesia;1
+¿Quién escribió "El Principito"?;Antoine de Saint-Exupéry;Victor Hugo;Julio Verne;Albert Camus;1
+¿Cuál es el océano más frío de la Tierra?;Pacífico;Atlántico;Índico;Ártico;4
+¿Quién pintó "El Guernica"?;Salvador Dalí;Joan Miró;Pablo Picasso;Francisco de Goya;3
+El monitor tiene 2 computadores, un portátil y una torre. ¿Qué tarjeta grafica tiene la torre?;Gtx 1660 super;RTX 3050;RTX 5060;RTX 5090;1
+¿Cuántos lados tiene un hexágono?;5;6;7;8;2
+¿Cuál es el órgano más grande del cuerpo humano?;Hígado;Piel;Cerebro;Intestino;2
+¿Qué famoso científico propuso la teoría de la relatividad?;Isaac Newton;Galileo Galilei;Albert Einstein;Stephen Hawking;3
+¿Cuál es el nombre del villano principal en "Star Wars" (Ep. 4-6)?;El Emperador;Darth Maul;Conde Dooku;Darth Vader;4
+¿Si el monitor fuera un animal, cual le gustaria ser?;Pingüino;Nutria;Gato naranja;Marmota;1
+¿Cuál es el animal nacional de Canadá?;Oso polar;Alce;Castor;Lobo gris;3
+¿Cuántos corazones tiene un pulpo?;1;2;3;4;3
+¿El monitor es muy bueno en un juego, en cual?;Tejo;Bolirrana;Pool;Boxeo;2
+¿Qué es un "lustro"?;Un período de 5 años;Un período de 10 años;Un período de 50 años;Un período de 100 años;1
+¿Cuál es el patrón favorito del monitor?;Singleton;MVC;Solid;Ninguno (no tiene ni idea de patrones);2
+¿En qué ciudad está la estatua de la Sirenita?;Oslo;Estocolmo;Helsinki;Copenhague;4
+¿Cuál es la complejidad algorítmica de la búsqueda binaria?;O(N);O(LOG N);O(N^2);O(N+M);2
+¿Cuál es el felino más grande del mundo?;León;Tigre;Jaguar;Leopardo;2
+¿Qué cordillera separa Europa de Asia?;Los Alpes;Los Urales;El Cáucaso;Los Himalayas;2
+¿En qué año se fundó la ONU (Organización de las Naciones Unidas)?;1945;1919;1950;1939;1
+¿Cuál es la capital de Sudáfrica (administrativa)?;Ciudad del Cabo;Johannesburgo;Durban;Pretoria;4
+¿Cuál es el nombre de la fobia al miedo a las arañas?;Agorafobia;Claustrofobia;Aracnofobia;Acrofobia;3
+¿Quién pintó "La última cena"?;Rafael;Miguel Ángel;Leonardo da Vinci;Caravaggio;3
+¿Según Steam, cual ha sido el juego mas jugado por el monitor?;God of war;Elden ring;Spider Man Remastered;No mans sky;2
+¿En qué videojuego aparece el personaje "Link"?;Final Fantasy;Chrono Trigger;The Legend of Zelda;Mario Bros.;3
+¿Cuál es el color principal de la red social X (Twitter)?;Rojo;Verde;Azul;Negro;4
+¿En qué ciudad nació Wolfgang Amadeus Mozart?;Viena;Berlín;Praga;Salzburgo;4
+¿Cantas horas a la semana le dedica el monitor a ADSW?;4;8;30;1;3
